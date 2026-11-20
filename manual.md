@@ -3,7 +3,7 @@
 **A reverb whose room you pick with a jellyfish: 256 rooms on one pad, four kinds of walls and four shapes across,
 sixteen sizes up.**
 
-Version 1.0.0. To install it, see the [install steps](README.md#install).
+Version 1.0.1. To install it, see the [install steps](README.md#install).
 
 ## Contents
 

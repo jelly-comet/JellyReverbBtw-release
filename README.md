@@ -53,10 +53,10 @@ Download the latest version from the [Releases page](https://github.com/jelly-co
 or with these commands:
 
 ```bash
-curl -LO https://github.com/jelly-comet/JellyReverbBtw-release/releases/download/v1.0.0/JellyReverbBtw-1.0.0-linux-x86_64.tar.gz
-curl -LO https://github.com/jelly-comet/JellyReverbBtw-release/releases/download/v1.0.0/JellyReverbBtw-1.0.0-linux-x86_64.tar.gz.sha256
-sha256sum -c JellyReverbBtw-1.0.0-linux-x86_64.tar.gz.sha256 && tar xzf JellyReverbBtw-1.0.0-linux-x86_64.tar.gz
-cd JellyReverbBtw-1.0.0-linux-x86_64
+curl -LO https://github.com/jelly-comet/JellyReverbBtw-release/releases/download/v1.0.1/JellyReverbBtw-1.0.1-linux-x86_64.tar.gz
+curl -LO https://github.com/jelly-comet/JellyReverbBtw-release/releases/download/v1.0.1/JellyReverbBtw-1.0.1-linux-x86_64.tar.gz.sha256
+sha256sum -c JellyReverbBtw-1.0.1-linux-x86_64.tar.gz.sha256 && tar xzf JellyReverbBtw-1.0.1-linux-x86_64.tar.gz
+cd JellyReverbBtw-1.0.1-linux-x86_64
 ```
 
 Install for your user:
